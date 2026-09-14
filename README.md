@@ -39,6 +39,7 @@ GROWL_harry/
 └── README.md
 
 ```
+The ``` onboarding_* ``` directory contains the corresponding onboarding material and exercises completed during that stage of the project.
 
 ## Tools and Technologies
 
