@@ -16,3 +16,9 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Data
+onboarding_3/Data
+
+# File
+onboarding_3/Third_onboarding.ipynb 
