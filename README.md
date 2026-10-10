@@ -32,8 +32,8 @@ GROWL_harry/
 │   ├── Second_onboarding.ipynb
 │   └── Second_exercise.ipynb
 │
-├── onboarding_*/
-|   ├── ..
+├── onboarding_3/
+│   └── Third_exercise.ipynb
 |
 ├── .gitignore
 └── README.md
@@ -49,6 +49,7 @@ The ``` onboarding_* ``` directory contains the corresponding onboarding materia
 - Matplotlib
 - Pandas
 - Git/GitHub
+- HDF5 
 
 Additional Packages and tools may be added as the project develops
 
